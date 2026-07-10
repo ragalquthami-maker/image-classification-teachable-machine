@@ -4,7 +4,7 @@ An image classification model trained using Google's Teachable Machine (teachabl
 
 ## Project Files
 
-- [keras_model.h5](keras_model(1).h5): The trained image classification model, exported from Teachable Machine in TensorFlow → Keras format.
+- [keras_model.h5](https://github.com/ragalquthami-maker/image-classification-teachable-machine/blob/main/keras_model%20(1).h5): The trained image classification model, exported from Teachable Machine in TensorFlow → Keras format.
 - [labels.txt](labels(1).txt): Text file containing the class names (Earphones, Headphones).
 - [predict.py](predict.py): Python script that loads the model and labels, processes an input image, and predicts its class.
 - [training_evaluation.png](training_evaluation.png): Screenshot of the model's accuracy per class from Teachable Machine.
